@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /Join_us/
+title: Join Us
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
