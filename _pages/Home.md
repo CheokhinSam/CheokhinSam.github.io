@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: (This is a testing website for MohismLab.)
+subtitle: (This is a subtitle.)
 
 
 profile:
@@ -32,9 +32,9 @@ latest_posts:
 
 Welcome to MohismLab. 
 
-This is our github (https://github.com/MohismLab)
+This is a testing website for MohismLab.
 
-Prof. Qingbiao LI
+This is our github (https://github.com/MohismLab)
 
 Machine Learning-based Motion Control, Open-source, Healthcare Imaging/Intelligent Agent, Surgical Robotics, and Medical Systems and Multi-Robot Systems.
 
